@@ -1,0 +1,1810 @@
+Data logging initiated - 30-05-2024
+Location - Nottingham
+
+Minute				0
+Temperature		28.20 C
+
+Minute				1
+Temperature		23.31 C
+
+Minute				2
+Temperature		23.31 C
+
+Minute				3
+Temperature		23.31 C
+
+Minute				4
+Temperature		28.20 C
+
+Minute				5
+Temperature		28.20 C
+
+Minute				6
+Temperature		28.20 C
+
+Minute				7
+Temperature		28.20 C
+
+Minute				8
+Temperature		23.31 C
+
+Minute				9
+Temperature		23.31 C
+
+Minute				10
+Temperature		23.31 C
+
+Minute				11
+Temperature		28.20 C
+
+Minute				12
+Temperature		28.20 C
+
+Minute				13
+Temperature		23.31 C
+
+Minute				14
+Temperature		23.31 C
+
+Minute				15
+Temperature		23.31 C
+
+Minute				16
+Temperature		28.20 C
+
+Minute				17
+Temperature		23.31 C
+
+Minute				18
+Temperature		23.31 C
+
+Minute				19
+Temperature		23.31 C
+
+Minute				20
+Temperature		28.20 C
+
+Minute				21
+Temperature		28.20 C
+
+Minute				22
+Temperature		23.31 C
+
+Minute				23
+Temperature		28.20 C
+
+Minute				24
+Temperature		28.20 C
+
+Minute				25
+Temperature		23.31 C
+
+Minute				26
+Temperature		28.20 C
+
+Minute				27
+Temperature		23.31 C
+
+Minute				28
+Temperature		23.31 C
+
+Minute				29
+Temperature		23.31 C
+
+Minute				30
+Temperature		23.31 C
+
+Minute				31
+Temperature		23.31 C
+
+Minute				32
+Temperature		28.20 C
+
+Minute				33
+Temperature		23.31 C
+
+Minute				34
+Temperature		28.20 C
+
+Minute				35
+Temperature		23.31 C
+
+Minute				36
+Temperature		28.20 C
+
+Minute				37
+Temperature		23.31 C
+
+Minute				38
+Temperature		28.20 C
+
+Minute				39
+Temperature		28.20 C
+
+Minute				40
+Temperature		23.31 C
+
+Minute				41
+Temperature		23.31 C
+
+Minute				42
+Temperature		28.20 C
+
+Minute				43
+Temperature		28.20 C
+
+Minute				44
+Temperature		23.31 C
+
+Minute				45
+Temperature		23.31 C
+
+Minute				46
+Temperature		23.31 C
+
+Minute				47
+Temperature		23.31 C
+
+Minute				48
+Temperature		28.20 C
+
+Minute				49
+Temperature		28.20 C
+
+Minute				50
+Temperature		28.20 C
+
+Minute				51
+Temperature		23.31 C
+
+Minute				52
+Temperature		28.20 C
+
+Minute				53
+Temperature		28.20 C
+
+Minute				54
+Temperature		28.20 C
+
+Minute				55
+Temperature		23.31 C
+
+Minute				56
+Temperature		28.20 C
+
+Minute				57
+Temperature		23.31 C
+
+Minute				58
+Temperature		28.20 C
+
+Minute				59
+Temperature		23.31 C
+
+Minute				60
+Temperature		23.31 C
+
+Minute				61
+Temperature		23.31 C
+
+Minute				62
+Temperature		28.20 C
+
+Minute				63
+Temperature		23.31 C
+
+Minute				64
+Temperature		28.20 C
+
+Minute				65
+Temperature		28.20 C
+
+Minute				66
+Temperature		28.20 C
+
+Minute				67
+Temperature		23.31 C
+
+Minute				68
+Temperature		23.31 C
+
+Minute				69
+Temperature		23.31 C
+
+Minute				70
+Temperature		23.31 C
+
+Minute				71
+Temperature		23.31 C
+
+Minute				72
+Temperature		23.31 C
+
+Minute				73
+Temperature		28.20 C
+
+Minute				74
+Temperature		23.31 C
+
+Minute				75
+Temperature		23.31 C
+
+Minute				76
+Temperature		23.31 C
+
+Minute				77
+Temperature		28.20 C
+
+Minute				78
+Temperature		23.31 C
+
+Minute				79
+Temperature		23.31 C
+
+Minute				80
+Temperature		28.20 C
+
+Minute				81
+Temperature		23.31 C
+
+Minute				82
+Temperature		23.31 C
+
+Minute				83
+Temperature		28.20 C
+
+Minute				84
+Temperature		28.20 C
+
+Minute				85
+Temperature		23.31 C
+
+Minute				86
+Temperature		28.20 C
+
+Minute				87
+Temperature		28.20 C
+
+Minute				88
+Temperature		23.31 C
+
+Minute				89
+Temperature		28.20 C
+
+Minute				90
+Temperature		28.20 C
+
+Minute				91
+Temperature		28.20 C
+
+Minute				92
+Temperature		28.20 C
+
+Minute				93
+Temperature		28.20 C
+
+Minute				94
+Temperature		28.20 C
+
+Minute				95
+Temperature		28.20 C
+
+Minute				96
+Temperature		23.31 C
+
+Minute				97
+Temperature		23.31 C
+
+Minute				98
+Temperature		23.31 C
+
+Minute				99
+Temperature		28.20 C
+
+Minute				100
+Temperature		28.20 C
+
+Minute				101
+Temperature		28.20 C
+
+Minute				102
+Temperature		28.20 C
+
+Minute				103
+Temperature		28.20 C
+
+Minute				104
+Temperature		23.31 C
+
+Minute				105
+Temperature		23.31 C
+
+Minute				106
+Temperature		28.20 C
+
+Minute				107
+Temperature		28.20 C
+
+Minute				108
+Temperature		23.31 C
+
+Minute				109
+Temperature		28.20 C
+
+Minute				110
+Temperature		23.31 C
+
+Minute				111
+Temperature		23.31 C
+
+Minute				112
+Temperature		28.20 C
+
+Minute				113
+Temperature		23.31 C
+
+Minute				114
+Temperature		23.31 C
+
+Minute				115
+Temperature		23.31 C
+
+Minute				116
+Temperature		28.20 C
+
+Minute				117
+Temperature		28.20 C
+
+Minute				118
+Temperature		28.20 C
+
+Minute				119
+Temperature		23.31 C
+
+Minute				120
+Temperature		28.20 C
+
+Minute				121
+Temperature		23.31 C
+
+Minute				122
+Temperature		28.20 C
+
+Minute				123
+Temperature		23.31 C
+
+Minute				124
+Temperature		23.31 C
+
+Minute				125
+Temperature		28.20 C
+
+Minute				126
+Temperature		23.31 C
+
+Minute				127
+Temperature		28.20 C
+
+Minute				128
+Temperature		23.31 C
+
+Minute				129
+Temperature		23.31 C
+
+Minute				130
+Temperature		28.20 C
+
+Minute				131
+Temperature		28.20 C
+
+Minute				132
+Temperature		28.20 C
+
+Minute				133
+Temperature		28.20 C
+
+Minute				134
+Temperature		28.20 C
+
+Minute				135
+Temperature		28.20 C
+
+Minute				136
+Temperature		23.31 C
+
+Minute				137
+Temperature		28.20 C
+
+Minute				138
+Temperature		28.20 C
+
+Minute				139
+Temperature		23.31 C
+
+Minute				140
+Temperature		23.31 C
+
+Minute				141
+Temperature		23.31 C
+
+Minute				142
+Temperature		23.31 C
+
+Minute				143
+Temperature		28.20 C
+
+Minute				144
+Temperature		23.31 C
+
+Minute				145
+Temperature		23.31 C
+
+Minute				146
+Temperature		23.31 C
+
+Minute				147
+Temperature		23.31 C
+
+Minute				148
+Temperature		23.31 C
+
+Minute				149
+Temperature		23.31 C
+
+Minute				150
+Temperature		23.31 C
+
+Minute				151
+Temperature		23.31 C
+
+Minute				152
+Temperature		18.43 C
+
+Minute				153
+Temperature		23.31 C
+
+Minute				154
+Temperature		23.31 C
+
+Minute				155
+Temperature		23.31 C
+
+Minute				156
+Temperature		23.31 C
+
+Minute				157
+Temperature		23.31 C
+
+Minute				158
+Temperature		28.20 C
+
+Minute				159
+Temperature		28.20 C
+
+Minute				160
+Temperature		23.31 C
+
+Minute				161
+Temperature		28.20 C
+
+Minute				162
+Temperature		28.20 C
+
+Minute				163
+Temperature		28.20 C
+
+Minute				164
+Temperature		23.31 C
+
+Minute				165
+Temperature		23.31 C
+
+Minute				166
+Temperature		28.20 C
+
+Minute				167
+Temperature		23.31 C
+
+Minute				168
+Temperature		23.31 C
+
+Minute				169
+Temperature		28.20 C
+
+Minute				170
+Temperature		23.31 C
+
+Minute				171
+Temperature		28.20 C
+
+Minute				172
+Temperature		28.20 C
+
+Minute				173
+Temperature		28.20 C
+
+Minute				174
+Temperature		23.31 C
+
+Minute				175
+Temperature		23.31 C
+
+Minute				176
+Temperature		23.31 C
+
+Minute				177
+Temperature		28.20 C
+
+Minute				178
+Temperature		28.20 C
+
+Minute				179
+Temperature		23.31 C
+
+Minute				180
+Temperature		23.31 C
+
+Minute				181
+Temperature		28.20 C
+
+Minute				182
+Temperature		23.31 C
+
+Minute				183
+Temperature		28.20 C
+
+Minute				184
+Temperature		23.31 C
+
+Minute				185
+Temperature		23.31 C
+
+Minute				186
+Temperature		28.20 C
+
+Minute				187
+Temperature		23.31 C
+
+Minute				188
+Temperature		23.31 C
+
+Minute				189
+Temperature		28.20 C
+
+Minute				190
+Temperature		28.20 C
+
+Minute				191
+Temperature		28.20 C
+
+Minute				192
+Temperature		28.20 C
+
+Minute				193
+Temperature		23.31 C
+
+Minute				194
+Temperature		28.20 C
+
+Minute				195
+Temperature		28.20 C
+
+Minute				196
+Temperature		23.31 C
+
+Minute				197
+Temperature		23.31 C
+
+Minute				198
+Temperature		28.20 C
+
+Minute				199
+Temperature		28.20 C
+
+Minute				200
+Temperature		23.31 C
+
+Minute				201
+Temperature		28.20 C
+
+Minute				202
+Temperature		23.31 C
+
+Minute				203
+Temperature		28.20 C
+
+Minute				204
+Temperature		28.20 C
+
+Minute				205
+Temperature		23.31 C
+
+Minute				206
+Temperature		23.31 C
+
+Minute				207
+Temperature		28.20 C
+
+Minute				208
+Temperature		28.20 C
+
+Minute				209
+Temperature		28.20 C
+
+Minute				210
+Temperature		23.31 C
+
+Minute				211
+Temperature		23.31 C
+
+Minute				212
+Temperature		28.20 C
+
+Minute				213
+Temperature		28.20 C
+
+Minute				214
+Temperature		28.20 C
+
+Minute				215
+Temperature		28.20 C
+
+Minute				216
+Temperature		28.20 C
+
+Minute				217
+Temperature		28.20 C
+
+Minute				218
+Temperature		23.31 C
+
+Minute				219
+Temperature		23.31 C
+
+Minute				220
+Temperature		23.31 C
+
+Minute				221
+Temperature		23.31 C
+
+Minute				222
+Temperature		28.20 C
+
+Minute				223
+Temperature		28.20 C
+
+Minute				224
+Temperature		28.20 C
+
+Minute				225
+Temperature		28.20 C
+
+Minute				226
+Temperature		28.20 C
+
+Minute				227
+Temperature		23.31 C
+
+Minute				228
+Temperature		28.20 C
+
+Minute				229
+Temperature		28.20 C
+
+Minute				230
+Temperature		23.31 C
+
+Minute				231
+Temperature		28.20 C
+
+Minute				232
+Temperature		28.20 C
+
+Minute				233
+Temperature		28.20 C
+
+Minute				234
+Temperature		23.31 C
+
+Minute				235
+Temperature		28.20 C
+
+Minute				236
+Temperature		28.20 C
+
+Minute				237
+Temperature		23.31 C
+
+Minute				238
+Temperature		28.20 C
+
+Minute				239
+Temperature		23.31 C
+
+Minute				240
+Temperature		23.31 C
+
+Minute				241
+Temperature		28.20 C
+
+Minute				242
+Temperature		28.20 C
+
+Minute				243
+Temperature		23.31 C
+
+Minute				244
+Temperature		28.20 C
+
+Minute				245
+Temperature		23.31 C
+
+Minute				246
+Temperature		23.31 C
+
+Minute				247
+Temperature		28.20 C
+
+Minute				248
+Temperature		28.20 C
+
+Minute				249
+Temperature		23.31 C
+
+Minute				250
+Temperature		28.20 C
+
+Minute				251
+Temperature		23.31 C
+
+Minute				252
+Temperature		28.20 C
+
+Minute				253
+Temperature		23.31 C
+
+Minute				254
+Temperature		23.31 C
+
+Minute				255
+Temperature		23.31 C
+
+Minute				256
+Temperature		23.31 C
+
+Minute				257
+Temperature		23.31 C
+
+Minute				258
+Temperature		23.31 C
+
+Minute				259
+Temperature		23.31 C
+
+Minute				260
+Temperature		28.20 C
+
+Minute				261
+Temperature		28.20 C
+
+Minute				262
+Temperature		28.20 C
+
+Minute				263
+Temperature		23.31 C
+
+Minute				264
+Temperature		23.31 C
+
+Minute				265
+Temperature		23.31 C
+
+Minute				266
+Temperature		23.31 C
+
+Minute				267
+Temperature		23.31 C
+
+Minute				268
+Temperature		28.20 C
+
+Minute				269
+Temperature		28.20 C
+
+Minute				270
+Temperature		23.31 C
+
+Minute				271
+Temperature		28.20 C
+
+Minute				272
+Temperature		23.31 C
+
+Minute				273
+Temperature		28.20 C
+
+Minute				274
+Temperature		28.20 C
+
+Minute				275
+Temperature		23.31 C
+
+Minute				276
+Temperature		28.20 C
+
+Minute				277
+Temperature		23.31 C
+
+Minute				278
+Temperature		28.20 C
+
+Minute				279
+Temperature		23.31 C
+
+Minute				280
+Temperature		23.31 C
+
+Minute				281
+Temperature		28.20 C
+
+Minute				282
+Temperature		28.20 C
+
+Minute				283
+Temperature		28.20 C
+
+Minute				284
+Temperature		23.31 C
+
+Minute				285
+Temperature		28.20 C
+
+Minute				286
+Temperature		28.20 C
+
+Minute				287
+Temperature		28.20 C
+
+Minute				288
+Temperature		28.20 C
+
+Minute				289
+Temperature		28.20 C
+
+Minute				290
+Temperature		28.20 C
+
+Minute				291
+Temperature		23.31 C
+
+Minute				292
+Temperature		28.20 C
+
+Minute				293
+Temperature		23.31 C
+
+Minute				294
+Temperature		28.20 C
+
+Minute				295
+Temperature		28.20 C
+
+Minute				296
+Temperature		23.31 C
+
+Minute				297
+Temperature		28.20 C
+
+Minute				298
+Temperature		23.31 C
+
+Minute				299
+Temperature		23.31 C
+
+Minute				300
+Temperature		28.20 C
+
+Minute				301
+Temperature		28.20 C
+
+Minute				302
+Temperature		28.20 C
+
+Minute				303
+Temperature		28.20 C
+
+Minute				304
+Temperature		28.20 C
+
+Minute				305
+Temperature		23.31 C
+
+Minute				306
+Temperature		28.20 C
+
+Minute				307
+Temperature		28.20 C
+
+Minute				308
+Temperature		23.31 C
+
+Minute				309
+Temperature		23.31 C
+
+Minute				310
+Temperature		28.20 C
+
+Minute				311
+Temperature		23.31 C
+
+Minute				312
+Temperature		23.31 C
+
+Minute				313
+Temperature		23.31 C
+
+Minute				314
+Temperature		28.20 C
+
+Minute				315
+Temperature		28.20 C
+
+Minute				316
+Temperature		28.20 C
+
+Minute				317
+Temperature		23.31 C
+
+Minute				318
+Temperature		28.20 C
+
+Minute				319
+Temperature		23.31 C
+
+Minute				320
+Temperature		23.31 C
+
+Minute				321
+Temperature		23.31 C
+
+Minute				322
+Temperature		28.20 C
+
+Minute				323
+Temperature		23.31 C
+
+Minute				324
+Temperature		28.20 C
+
+Minute				325
+Temperature		28.20 C
+
+Minute				326
+Temperature		23.31 C
+
+Minute				327
+Temperature		23.31 C
+
+Minute				328
+Temperature		23.31 C
+
+Minute				329
+Temperature		23.31 C
+
+Minute				330
+Temperature		23.31 C
+
+Minute				331
+Temperature		23.31 C
+
+Minute				332
+Temperature		23.31 C
+
+Minute				333
+Temperature		28.20 C
+
+Minute				334
+Temperature		23.31 C
+
+Minute				335
+Temperature		28.20 C
+
+Minute				336
+Temperature		28.20 C
+
+Minute				337
+Temperature		23.31 C
+
+Minute				338
+Temperature		23.31 C
+
+Minute				339
+Temperature		23.31 C
+
+Minute				340
+Temperature		23.31 C
+
+Minute				341
+Temperature		33.09 C
+
+Minute				342
+Temperature		28.20 C
+
+Minute				343
+Temperature		28.20 C
+
+Minute				344
+Temperature		23.31 C
+
+Minute				345
+Temperature		23.31 C
+
+Minute				346
+Temperature		28.20 C
+
+Minute				347
+Temperature		28.20 C
+
+Minute				348
+Temperature		23.31 C
+
+Minute				349
+Temperature		28.20 C
+
+Minute				350
+Temperature		28.20 C
+
+Minute				351
+Temperature		28.20 C
+
+Minute				352
+Temperature		23.31 C
+
+Minute				353
+Temperature		28.20 C
+
+Minute				354
+Temperature		23.31 C
+
+Minute				355
+Temperature		28.20 C
+
+Minute				356
+Temperature		28.20 C
+
+Minute				357
+Temperature		23.31 C
+
+Minute				358
+Temperature		23.31 C
+
+Minute				359
+Temperature		23.31 C
+
+Minute				360
+Temperature		28.20 C
+
+Minute				361
+Temperature		23.31 C
+
+Minute				362
+Temperature		23.31 C
+
+Minute				363
+Temperature		23.31 C
+
+Minute				364
+Temperature		28.20 C
+
+Minute				365
+Temperature		23.31 C
+
+Minute				366
+Temperature		23.31 C
+
+Minute				367
+Temperature		28.20 C
+
+Minute				368
+Temperature		23.31 C
+
+Minute				369
+Temperature		23.31 C
+
+Minute				370
+Temperature		23.31 C
+
+Minute				371
+Temperature		23.31 C
+
+Minute				372
+Temperature		28.20 C
+
+Minute				373
+Temperature		23.31 C
+
+Minute				374
+Temperature		28.20 C
+
+Minute				375
+Temperature		23.31 C
+
+Minute				376
+Temperature		23.31 C
+
+Minute				377
+Temperature		23.31 C
+
+Minute				378
+Temperature		28.20 C
+
+Minute				379
+Temperature		23.31 C
+
+Minute				380
+Temperature		28.20 C
+
+Minute				381
+Temperature		28.20 C
+
+Minute				382
+Temperature		28.20 C
+
+Minute				383
+Temperature		23.31 C
+
+Minute				384
+Temperature		28.20 C
+
+Minute				385
+Temperature		28.20 C
+
+Minute				386
+Temperature		28.20 C
+
+Minute				387
+Temperature		28.20 C
+
+Minute				388
+Temperature		23.31 C
+
+Minute				389
+Temperature		23.31 C
+
+Minute				390
+Temperature		28.20 C
+
+Minute				391
+Temperature		23.31 C
+
+Minute				392
+Temperature		23.31 C
+
+Minute				393
+Temperature		28.20 C
+
+Minute				394
+Temperature		23.31 C
+
+Minute				395
+Temperature		23.31 C
+
+Minute				396
+Temperature		28.20 C
+
+Minute				397
+Temperature		28.20 C
+
+Minute				398
+Temperature		23.31 C
+
+Minute				399
+Temperature		28.20 C
+
+Minute				400
+Temperature		28.20 C
+
+Minute				401
+Temperature		23.31 C
+
+Minute				402
+Temperature		23.31 C
+
+Minute				403
+Temperature		28.20 C
+
+Minute				404
+Temperature		28.20 C
+
+Minute				405
+Temperature		28.20 C
+
+Minute				406
+Temperature		23.31 C
+
+Minute				407
+Temperature		23.31 C
+
+Minute				408
+Temperature		23.31 C
+
+Minute				409
+Temperature		28.20 C
+
+Minute				410
+Temperature		28.20 C
+
+Minute				411
+Temperature		23.31 C
+
+Minute				412
+Temperature		23.31 C
+
+Minute				413
+Temperature		28.20 C
+
+Minute				414
+Temperature		23.31 C
+
+Minute				415
+Temperature		23.31 C
+
+Minute				416
+Temperature		28.20 C
+
+Minute				417
+Temperature		28.20 C
+
+Minute				418
+Temperature		23.31 C
+
+Minute				419
+Temperature		28.20 C
+
+Minute				420
+Temperature		23.31 C
+
+Minute				421
+Temperature		28.20 C
+
+Minute				422
+Temperature		23.31 C
+
+Minute				423
+Temperature		28.20 C
+
+Minute				424
+Temperature		23.31 C
+
+Minute				425
+Temperature		28.20 C
+
+Minute				426
+Temperature		23.31 C
+
+Minute				427
+Temperature		28.20 C
+
+Minute				428
+Temperature		28.20 C
+
+Minute				429
+Temperature		28.20 C
+
+Minute				430
+Temperature		23.31 C
+
+Minute				431
+Temperature		28.20 C
+
+Minute				432
+Temperature		23.31 C
+
+Minute				433
+Temperature		28.20 C
+
+Minute				434
+Temperature		23.31 C
+
+Minute				435
+Temperature		23.31 C
+
+Minute				436
+Temperature		28.20 C
+
+Minute				437
+Temperature		28.20 C
+
+Minute				438
+Temperature		28.20 C
+
+Minute				439
+Temperature		28.20 C
+
+Minute				440
+Temperature		28.20 C
+
+Minute				441
+Temperature		28.20 C
+
+Minute				442
+Temperature		23.31 C
+
+Minute				443
+Temperature		23.31 C
+
+Minute				444
+Temperature		23.31 C
+
+Minute				445
+Temperature		23.31 C
+
+Minute				446
+Temperature		28.20 C
+
+Minute				447
+Temperature		23.31 C
+
+Minute				448
+Temperature		28.20 C
+
+Minute				449
+Temperature		28.20 C
+
+Minute				450
+Temperature		23.31 C
+
+Minute				451
+Temperature		23.31 C
+
+Minute				452
+Temperature		28.20 C
+
+Minute				453
+Temperature		28.20 C
+
+Minute				454
+Temperature		28.20 C
+
+Minute				455
+Temperature		23.31 C
+
+Minute				456
+Temperature		28.20 C
+
+Minute				457
+Temperature		23.31 C
+
+Minute				458
+Temperature		28.20 C
+
+Minute				459
+Temperature		28.20 C
+
+Minute				460
+Temperature		28.20 C
+
+Minute				461
+Temperature		28.20 C
+
+Minute				462
+Temperature		23.31 C
+
+Minute				463
+Temperature		23.31 C
+
+Minute				464
+Temperature		28.20 C
+
+Minute				465
+Temperature		23.31 C
+
+Minute				466
+Temperature		23.31 C
+
+Minute				467
+Temperature		23.31 C
+
+Minute				468
+Temperature		23.31 C
+
+Minute				469
+Temperature		28.20 C
+
+Minute				470
+Temperature		23.31 C
+
+Minute				471
+Temperature		28.20 C
+
+Minute				472
+Temperature		28.20 C
+
+Minute				473
+Temperature		28.20 C
+
+Minute				474
+Temperature		23.31 C
+
+Minute				475
+Temperature		23.31 C
+
+Minute				476
+Temperature		23.31 C
+
+Minute				477
+Temperature		23.31 C
+
+Minute				478
+Temperature		28.20 C
+
+Minute				479
+Temperature		23.31 C
+
+Minute				480
+Temperature		28.20 C
+
+Minute				481
+Temperature		23.31 C
+
+Minute				482
+Temperature		28.20 C
+
+Minute				483
+Temperature		28.20 C
+
+Minute				484
+Temperature		28.20 C
+
+Minute				485
+Temperature		23.31 C
+
+Minute				486
+Temperature		28.20 C
+
+Minute				487
+Temperature		28.20 C
+
+Minute				488
+Temperature		28.20 C
+
+Minute				489
+Temperature		28.20 C
+
+Minute				490
+Temperature		28.20 C
+
+Minute				491
+Temperature		23.31 C
+
+Minute				492
+Temperature		23.31 C
+
+Minute				493
+Temperature		23.31 C
+
+Minute				494
+Temperature		28.20 C
+
+Minute				495
+Temperature		23.31 C
+
+Minute				496
+Temperature		23.31 C
+
+Minute				497
+Temperature		28.20 C
+
+Minute				498
+Temperature		28.20 C
+
+Minute				499
+Temperature		28.20 C
+
+Minute				500
+Temperature		23.31 C
+
+Minute				501
+Temperature		28.20 C
+
+Minute				502
+Temperature		23.31 C
+
+Minute				503
+Temperature		23.31 C
+
+Minute				504
+Temperature		23.31 C
+
+Minute				505
+Temperature		28.20 C
+
+Minute				506
+Temperature		28.20 C
+
+Minute				507
+Temperature		23.31 C
+
+Minute				508
+Temperature		28.20 C
+
+Minute				509
+Temperature		28.20 C
+
+Minute				510
+Temperature		28.20 C
+
+Minute				511
+Temperature		28.20 C
+
+Minute				512
+Temperature		28.20 C
+
+Minute				513
+Temperature		28.20 C
+
+Minute				514
+Temperature		23.31 C
+
+Minute				515
+Temperature		23.31 C
+
+Minute				516
+Temperature		28.20 C
+
+Minute				517
+Temperature		23.31 C
+
+Minute				518
+Temperature		23.31 C
+
+Minute				519
+Temperature		28.20 C
+
+Minute				520
+Temperature		23.31 C
+
+Minute				521
+Temperature		28.20 C
+
+Minute				522
+Temperature		33.09 C
+
+Minute				523
+Temperature		28.20 C
+
+Minute				524
+Temperature		28.20 C
+
+Minute				525
+Temperature		23.31 C
+
+Minute				526
+Temperature		23.31 C
+
+Minute				527
+Temperature		28.20 C
+
+Minute				528
+Temperature		28.20 C
+
+Minute				529
+Temperature		28.20 C
+
+Minute				530
+Temperature		23.31 C
+
+Minute				531
+Temperature		28.20 C
+
+Minute				532
+Temperature		28.20 C
+
+Minute				533
+Temperature		28.20 C
+
+Minute				534
+Temperature		23.31 C
+
+Minute				535
+Temperature		28.20 C
+
+Minute				536
+Temperature		23.31 C
+
+Minute				537
+Temperature		23.31 C
+
+Minute				538
+Temperature		28.20 C
+
+Minute				539
+Temperature		23.31 C
+
+Minute				540
+Temperature		28.20 C
+
+Minute				541
+Temperature		28.20 C
+
+Minute				542
+Temperature		23.31 C
+
+Minute				543
+Temperature		28.20 C
+
+Minute				544
+Temperature		28.20 C
+
+Minute				545
+Temperature		28.20 C
+
+Minute				546
+Temperature		28.20 C
+
+Minute				547
+Temperature		23.31 C
+
+Minute				548
+Temperature		28.20 C
+
+Minute				549
+Temperature		28.20 C
+
+Minute				550
+Temperature		23.31 C
+
+Minute				551
+Temperature		28.20 C
+
+Minute				552
+Temperature		23.31 C
+
+Minute				553
+Temperature		23.31 C
+
+Minute				554
+Temperature		28.20 C
+
+Minute				555
+Temperature		23.31 C
+
+Minute				556
+Temperature		28.20 C
+
+Minute				557
+Temperature		28.20 C
+
+Minute				558
+Temperature		23.31 C
+
+Minute				559
+Temperature		23.31 C
+
+Minute				560
+Temperature		23.31 C
+
+Minute				561
+Temperature		23.31 C
+
+Minute				562
+Temperature		23.31 C
+
+Minute				563
+Temperature		23.31 C
+
+Minute				564
+Temperature		23.31 C
+
+Minute				565
+Temperature		23.31 C
+
+Minute				566
+Temperature		23.31 C
+
+Minute				567
+Temperature		23.31 C
+
+Minute				568
+Temperature		23.31 C
+
+Minute				569
+Temperature		28.20 C
+
+Minute				570
+Temperature		28.20 C
+
+Minute				571
+Temperature		23.31 C
+
+Minute				572
+Temperature		23.31 C
+
+Minute				573
+Temperature		23.31 C
+
+Minute				574
+Temperature		28.20 C
+
+Minute				575
+Temperature		28.20 C
+
+Minute				576
+Temperature		23.31 C
+
+Minute				577
+Temperature		23.31 C
+
+Minute				578
+Temperature		23.31 C
+
+Minute				579
+Temperature		23.31 C
+
+Minute				580
+Temperature		23.31 C
+
+Minute				581
+Temperature		23.31 C
+
+Minute				582
+Temperature		28.20 C
+
+Minute				583
+Temperature		23.31 C
+
+Minute				584
+Temperature		28.20 C
+
+Minute				585
+Temperature		23.31 C
+
+Minute				586
+Temperature		28.20 C
+
+Minute				587
+Temperature		23.31 C
+
+Minute				588
+Temperature		28.20 C
+
+Minute				589
+Temperature		23.31 C
+
+Minute				590
+Temperature		23.31 C
+
+Minute				591
+Temperature		23.31 C
+
+Minute				592
+Temperature		28.20 C
+
+Minute				593
+Temperature		23.31 C
+
+Minute				594
+Temperature		28.20 C
+
+Minute				595
+Temperature		23.31 C
+
+Minute				596
+Temperature		28.20 C
+
+Minute				597
+Temperature		28.20 C
+
+Minute				598
+Temperature		23.31 C
+
+Minute				599
+Temperature		28.20 C
+
+
+Max temp		33.09 C
+Min temp		18.43 C
+Average temp	25.75 C
+
+
+Data logging terminated
